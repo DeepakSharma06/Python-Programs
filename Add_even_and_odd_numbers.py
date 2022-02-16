@@ -1,4 +1,4 @@
-#sum of even and odd numbers 
+#Write a program to display sum of odd numbers and even numbers that fall between 12 and 37(including both numbers)
 
 add=0
 
