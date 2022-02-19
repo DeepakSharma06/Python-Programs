@@ -1,0 +1,7 @@
+#count digits in number.
+num = int(input("enter number: "))
+s = 0
+while num != 0:
+    num = num // 10
+    s = s + 1
+print("Total digits are:", s)
