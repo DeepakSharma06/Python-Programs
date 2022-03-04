@@ -1,0 +1,6 @@
+def smallest_number():
+    list=[10, 20, 4]
+    for i in range (len(list )):
+        small=min(list)
+    print('Smallest number in list is ',small)
+smallest_number()
