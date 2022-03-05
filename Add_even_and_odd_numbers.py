@@ -16,7 +16,7 @@ for i in range (n, num):
 
 print("The sum of Even number between",n,"and",num," is: ",add)
 
-#second loop for odd numbers.
+#second loop for Odd numbers.
 
 for i in range (n, num):
 
